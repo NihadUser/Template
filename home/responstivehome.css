@@ -1,0 +1,243 @@
+@media screen and (max-width: 768px) {
+  .main-1-inner h1 {
+    font-size: 260%;
+  }
+  .main-1-inner button {
+    width: 25%;
+  }
+  .iconlar {
+    display: none;
+  }
+  header ul {
+    display: none;
+  }
+  .cards {
+    width: 48%;
+    margin-top: 20px;
+  }
+  .card-container {
+    flex-wrap: wrap;
+  }
+  .togg-btn {
+    display: block;
+  }
+  .main-2 h1 {
+    font-size: 250%;
+  }
+  .kard {
+    width: 30%;
+  }
+  .browse {
+    width: 20%;
+    margin-left: calc(50% - 10%);
+  }
+  .collect h1 {
+    font-size: 400%;
+  }
+  .collect .us {
+    width: 30%;
+  }
+  .two-cards .card-3 h1 {
+    font-size: 150%;
+    padding: 10px;
+  }
+  .card-3 .more {
+    width: 45%;
+    height: 50px;
+    margin-left: 15px;
+  }
+  .content-inner {
+    width: 48%;
+  }
+  .content {
+    height: 120vh;
+  }
+  footer {
+    height: 150vh;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  .second {
+    width: 40%;
+  }
+  .first {
+    width: 50%;
+  }
+  .first span {
+    font-size: 130%;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .main-1-inner h1 {
+    font-size: 350%;
+  }
+  .main-1-inner button {
+    width: 25%;
+  }
+  .iconlar {
+    gap: 1px;
+  }
+  .iconlar .icon {
+    width: 30px;
+    height: 30px;
+  }
+  .iconlar .icon-2 {
+    width: 40px;
+    height: 30px;
+  }
+  .browse {
+    width: 20%;
+    margin-left: calc(50% - 10%);
+  }
+  .card-3 h1 {
+    font-size: 160%;
+  }
+  .more {
+    width: 35%;
+  }
+}
+@media screen and (max-width: 376px) {
+  .main .main-1-inner h1 {
+    font-size: 320%;
+  }
+  .main-1-inner button {
+    width: 40%;
+  }
+  .iconlar {
+    display: none;
+  }
+  header ul {
+    display: none;
+  }
+  .cards {
+    width: 98%;
+    margin-top: 20px;
+  }
+  .card-container {
+    flex-wrap: wrap;
+  }
+  .togg-btn {
+    display: block;
+    margin-right: 30px;
+  }
+  .h1 {
+    font-size: 100%;
+  }
+  .collect .us {
+    width: 40%;
+  }
+  .card-3 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .content .content-inner {
+    width: 100%;
+  }
+  .main-3 .content {
+    height: 200vh;
+    flex-wrap: wrap;
+  }
+  .main-3-inner .collect h1 {
+    font-size: 250%;
+  }
+  .card-3 h1 {
+    font-size: 120%;
+  }
+  .more {
+    margin-left: 10px;
+  }
+  .main footer {
+    height: 230vh;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  footer .second {
+    width: 100%;
+  }
+  .first {
+    width: 50%;
+  }
+  .first span {
+    font-size: 130%;
+  }
+}
+@media screen and (max-width: 426px) {
+  .main-1-inner h1 {
+    font-size: 260%;
+  }
+  .main-1-inner button {
+    width: 40%;
+  }
+  .iconlar {
+    display: none;
+  }
+  header ul {
+    display: none;
+  }
+  .cards {
+    width: 98%;
+    margin-top: 20px;
+  }
+  .card-container {
+    flex-wrap: wrap;
+  }
+  .togg-btn {
+    display: block;
+    margin-right: 30px;
+  }
+
+  .main-2 h1 {
+    font-size: 250%;
+  }
+  .kard {
+    width: 98%;
+  }
+  .browse {
+    width: 40%;
+    margin-left: calc(50% - 20%);
+  }
+  .collect h1 {
+    font-size: 300%;
+  }
+  .collect .us {
+    width: 40%;
+  }
+  .card-3 {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .content-inner {
+    width: 100%;
+  }
+  .content {
+    height: 190vh;
+  }
+  footer {
+    height: 200vh;
+    flex-wrap: wrap;
+    gap: 40px;
+  }
+  .second {
+    width: 100%;
+  }
+  .first {
+    width: 100%;
+  }
+  .first span {
+    font-size: 130%;
+  }
+  .shop-1 {
+    font-size: 80%;
+  }
+  .image {
+    margin-top: 15px;
+  }
+}
+@media screen and (max-width: 321px) {
+  .two-cards .card-3 h1 {
+    font-size: 130%;
+  }
+  .main-3 .main-3-inner .collect {
+    text-align: center;
+  }
+}
